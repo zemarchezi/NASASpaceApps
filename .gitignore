@@ -5,6 +5,8 @@ __pycache__/
 
 # data files
 *.cdf
+dscovr_data/
+dataset/
 
 # C extensions
 *.so
